@@ -1,2 +1,2 @@
-# test.io
- 
+# mprakhar.github.io
+page for academic updates
